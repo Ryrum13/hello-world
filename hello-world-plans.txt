@@ -1,0 +1,11 @@
+PLAN HELLO WORLD!
+
+- Getting Deeper on HTML & CSS
+-Learn about Javascript
+    -ES6
+-Try Laravel Framework
+-Try React
+-Learn PHP
+-Consistent do programming about 3 hours a day
+-Try Some Project
+      -Freelancer
