@@ -3,7 +3,7 @@ PLAN HELLO WORLD!
 - Getting Deeper on HTML & CSS
 -Learn about Javascript
     -ES6
-    -Vue
+    -Try Typescript
 -Try Laravel Framework
 -Try React
 -Learn PHP
@@ -11,3 +11,4 @@ PLAN HELLO WORLD!
 -Try Some Project
       -Freelancer
       -Goban
+     
